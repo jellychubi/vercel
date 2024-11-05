@@ -1,0 +1,47 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    text-align: center;
+}
+
+/* Header styling */
+header {
+    background-color: #fff;
+    padding: 20px;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+}
+
+/* Profile photo styling */
+.profile-photo {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+/* Section styling */
+#intro {
+    margin-top: 50px;
+}
+
+#projects {
+    margin-top: 50px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
